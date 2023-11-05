@@ -35,8 +35,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/all4_test?serverTimezone=UTC
-    username: root
-    password: '@dudgh0830'
+    username: 'id'
+    password: 'pw'
 
   #################################
   # JPA Setting
